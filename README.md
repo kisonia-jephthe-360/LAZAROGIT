@@ -1,8 +1,7 @@
-# LAZAROGIT
-
+# LAZARO
 ## Faire de tutoriel sur git
 
-Faites des decouvertes des commendes super cool et marquant 
+ Decouvre des meilleurs commendes super cool et marquant 
 
-Abonnez toi! 
+  Abonnez toi! 
 
