@@ -3,5 +3,5 @@
 
  Decouvre des meilleurs commendes super cool et marquant 
 
-  Abonnez toi! 
+  Abonnez vous! 
 
